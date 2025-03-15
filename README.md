@@ -2,6 +2,7 @@
 [![create date](https://badges.pufler.dev/created/alanmugiwara/sql-starter?color=8A2BE2)](https://github.com/alanmugiwara)
 [![last update date](https://badges.pufler.dev/Updated/alanmugiwara/sql-starter?color=8A2BE2)](https://github.com/alanmugiwara)
 [![Commits Badge](https://img.shields.io/github/commit-activity/m/alanmugiwara/sql-starter.svg?color=8A2BE2)](https://github.com/alanmugiwara)
+
 [![contributors](https://img.shields.io/github/contributors/alanmugiwara/sql-starter?color=8A2BE2)](https://github.com/alanmugiwara)
 [![issues counter](https://img.shields.io/github/issues/alanmugiwara/sql-starter?color=8A2BE2)](https://github.com/alanmugiwara)
 [![repo size](https://img.shields.io/github/repo-size/alanmugiwara/sql-starter?color=8A2BE2)](https://github.com/alanmugiwara)
