@@ -10,6 +10,8 @@
 
 ### Atividade
 Criação de banco de dados | 14.03.2025
+Inserção de dados em tabelas e operações | 28.03.2025
+Atualização de dados e gestão de usuários | 25.04.2025
 
 ### Disciplina
 Programação e Desenvolvimento de Banco de Dados. 
